@@ -4,7 +4,7 @@ My name is Raul Martinez Jr. I am a graduate student studying Computer Science a
 
 ### Quick Links
 
-1. [Resume] (https://github.com/rmartinez96/rmartinez96.github.io/files/resume.pdf)
+[My Resume](https://github.com/rmartinez96/rmartinez96.github.io/files/resume.pdf)
 
 
 ```markdown
