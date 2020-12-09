@@ -6,31 +6,25 @@ My name is Raul Martinez Jr. I am a graduate student studying Computer Science a
 
 [My Resume](https://github.com/rmartinez96/rmartinez96.github.io/raw/main/files/resume.pdf)
 
+## Qualifications
 
-```markdown
-Syntax highlighted code block
+- Familiar with Robot Framework intergration testing.
+- Able to use git and Gerrit Code Review.
+- Familiar with Microsoft Teams integration tools.
+- Able to code in Python, Java, C, C++. Ruby.
+- Research within deep learning neural networks.
+- Able to implement a web site using HTML5, CSS3, JavaScript, Ruby, and Bootstrap.
+- Familiar with the construction and design in computer hardware.
+- Able to design integrated circuits using VLSI Cadence and testing with LVS and other embedded softwares.
+- Familiar with the process and terminology of CIP standards and requirements within the Bulk Electric System.
 
-# Header 1
-## Header 2
-### Header 3
+## Education
 
-- Bulleted
-- List
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
-1. Numbered
-2. List
+## Experience
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rmartinez96/rmartinez96.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Projects
