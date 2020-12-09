@@ -23,14 +23,14 @@ My name is Raul Martinez Jr. I am a graduate student studying Computer Science a
 ## Education
 
 **Masters of Science in Computer Science**
-    University of Texas Rio Grande Valley
-    Edinburg, Texas
-    Expected: May 2021
+&emsp; University of Texas Rio Grande Valley
+&emsp; Edinburg, Texas
+&emsp; Expected: May 2021
 
 **Bachelors of Science in Computer Engineering**
-    University of Texas Rio Grande Valley
-    Edinburg, Texas
-    Received: 2018
+&emsp; University of Texas Rio Grande Valley
+&emsp; Edinburg, Texas
+&emsp; Received: 2018
 
 ## Experience
 
