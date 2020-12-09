@@ -129,5 +129,3 @@ My name is Raul Martinez Jr. I am a graduate student studying Computer Science a
 - Designed an iOS application able to control variable speed and detect current speed (MPH).
 - Worked in a team of two to analyze problems and discover solutions.
 - Managed the software development perspective of the project (iOS application and microcontroller).
-
----
