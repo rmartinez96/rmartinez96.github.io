@@ -4,7 +4,9 @@ My name is Raul Martinez Jr. I am a graduate student studying Computer Science a
 
 ### Quick Links
 
-[My Resume](https://github.com/rmartinez96/rmartinez96.github.io/raw/main/files/resume.pdf)
+- [My Resume (PDF)](https://github.com/rmartinez96/rmartinez96.github.io/raw/main/files/resume.pdf)
+- [My GitHub](https://github.com/rmartinez96)
+- [My LinkedIn](https://www.linkedin.com/in/rmartinez96/)
 
 ---
 
@@ -83,3 +85,49 @@ My name is Raul Martinez Jr. I am a graduate student studying Computer Science a
 ---
 
 ## Projects
+
+### **General Motors** - Robot Framework: Phone Lines Integration Script
+&emsp;*OnStar Engineering Team*\
+&emsp;Completed: July 2020
+- Created a Python script with new keywords for Robot Framework.
+- Tested keywords with a phone line modem and Skype phone and recorded results.
+- Rebuilt OnStar robot framework project with new keywords.
+
+### **General Motors** - Microsoft Teams \ Gerrit Code Review Integration App
+&emsp;*OnStar Engineering Team*\
+&emsp;Completed: June 2020
+- Learned the Microsoft Teams Bot framework to connect an adaptive card to Gerrit Code Review.
+- Learned the Gerrit Code Review API to create a connector to Microsoft Teams.
+- Created UML sequence diagrams for easy understanding of the project.
+
+### **UTRGV** - Computer Science Open Problems - Side Channel Attacking on Blackbox Model
+&emsp;*Computer Science Department*\
+&emsp;January 2020 - Current
+- Construct the initial research process of deep neural networks in self-driving cars
+- Analyze self-driving datasets that can be computed by testing within known whiteboxes.
+- Design a method for reading blackboxes then estimating whiteboxes for side channel attacking in self-driving cars.
+
+### **Brownsville Public Utilities Board** - NERC Compliance Web Application: NERCapp
+&emsp;*BPUB NERC Team*\
+&emsp;August 2018 - May 2019
+- Designed an application that would follow BPUB CIP procedures and allow for easier reporting.
+- Designed a matrix that would associate BPUB procedure documents to their requirements.
+- Designed a report generator that would simplify CIP-002 and CIP-004.
+- Application was designed to cater BPUB responsibilities.
+
+### **Brownsville Public Utilities Board** - Summer College Internship Project
+&emsp;*BPUB NERC Team*\
+&emsp;May 2018 - August 2018
+- Designed a site that is easily manageable by NERC certified employees within the department.
+- Programmed the application to run on Ruby on Rails and Windows Server 2016.
+- Programmed an SQL database to store data and be filtered using community gems.
+
+### **UTRGV** - Computer Engineering Senior Project: E-Board (Electric Skateboard)
+&emsp;*Senior Project Course*\
+&emsp;January 2018 - December 2018
+- Designed a drivable electric component modular to any common skateboard.
+- Designed an iOS application able to control variable speed and detect current speed (MPH).
+- Worked in a team of two to analyze problems and discover solutions.
+- Managed the software development perspective of the project (iOS application and microcontroller).
+
+---
