@@ -20,18 +20,32 @@ My name is Raul Martinez Jr. I am a graduate student studying Computer Science a
 - Able to design integrated circuits using VLSI Cadence and testing with LVS and other embedded softwares.
 - Familiar with the process and terminology of CIP standards and requirements within the Bulk Electric System.
 
+---
+
 ## Education
 
-**Masters of Science in Computer Science**
-&emsp; University of Texas Rio Grande Valley
-&emsp; Edinburg, Texas
-&emsp; Expected: May 2021
+### Masters of Science in Computer Science
+&emsp;University of Texas Rio Grande Valley\
+&emsp;Edinburg, Texas\
+&emsp;Expected: May 2021
 
-**Bachelors of Science in Computer Engineering**
-&emsp; University of Texas Rio Grande Valley
-&emsp; Edinburg, Texas
-&emsp; Received: 2018
+### Bachelors of Science in Computer Engineering
+&emsp;University of Texas Rio Grande Valley\
+&emsp;Edinburg, Texas\
+&emsp;Received: 2018
+
+---
 
 ## Experience
+
+### **General Motors** - EXCEL Software Engineering Intern
+Chandler, Arizona\
+June 2020 - August 2020
+- Worked with the OnStar Software Engineering team.
+- Integrated Microsoft Teams app with Gerrit Code Review.
+- Developed Python scripts to integrate testing keywords built into Robot Framework.
+- Participated in Agile meetings and worked with General Motors test benches.
+
+
 
 ## Projects
