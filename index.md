@@ -6,6 +6,8 @@ My name is Raul Martinez Jr. I am a graduate student studying Computer Science a
 
 [My Resume](https://github.com/rmartinez96/rmartinez96.github.io/raw/main/files/resume.pdf)
 
+---
+
 ## Qualifications
 
 - Familiar with Robot Framework intergration testing.
@@ -20,10 +22,15 @@ My name is Raul Martinez Jr. I am a graduate student studying Computer Science a
 
 ## Education
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+**Masters of Science in Computer Science**
+    University of Texas Rio Grande Valley
+    Edinburg, Texas
+    Expected: May 2021
+
+**Bachelors of Science in Computer Engineering**
+    University of Texas Rio Grande Valley
+    Edinburg, Texas
+    Received: 2018
 
 ## Experience
 
