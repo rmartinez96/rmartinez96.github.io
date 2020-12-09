@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/rmartinez96/rmartinez96.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Raul Martinez Jr. I am a graduate student studying Computer Science at the Univeristy of Texas Rio Grande Valley. My current research is in Deep Nueral Networks. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Quick Links
 
-### Markdown
+1. [Resume] (https://github.com/rmartinez96/rmartinez96.github.io/files/resume.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
