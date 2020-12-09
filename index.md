@@ -4,7 +4,7 @@ My name is Raul Martinez Jr. I am a graduate student studying Computer Science a
 
 ### Quick Links
 
-- [My Resume (PDF)](https://github.com/rmartinez96/rmartinez96.github.io/raw/main/files/resume.pdf)
+- [My Resume (PDF)]({{ site.url }}/files/resume.pdf)
 - [My GitHub](https://github.com/rmartinez96)
 - [My LinkedIn](https://www.linkedin.com/in/rmartinez96/)
 
@@ -100,7 +100,7 @@ My name is Raul Martinez Jr. I am a graduate student studying Computer Science a
 - Learned the Gerrit Code Review API to create a connector to Microsoft Teams.
 - Created UML sequence diagrams for easy understanding of the project.
 
-### **UTRGV** - Computer Science Open Problems - Side Channel Attacking on Blackbox Model
+### **UTRGV** - Computer Science Open Problems - Side Channel Attack on Blackbox Model
 &emsp;*Computer Science Department*\
 &emsp;January 2020 - Current
 - Construct the initial research process of deep neural networks in self-driving cars
